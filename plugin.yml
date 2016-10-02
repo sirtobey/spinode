@@ -1,0 +1,4 @@
+name: SpinodePlugin
+main: ch.fuessschweiss.spinode.SpinodePlugin
+version: 1.0
+commands:
