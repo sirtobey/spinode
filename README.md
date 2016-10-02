@@ -1,2 +1,1 @@
-Spinode - Spigot Node Socket
-============================
+# spinode
